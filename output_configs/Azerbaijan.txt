@@ -1,2 +1,0 @@
-ss://39e18f1d-d3e4-4d44-b72e-9545a1d64f49@89.232.177.23:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=oVRbpcmh0rTxbe2y_zyVQqqzCVIPOFfkk-CHv9QFLF4&sni=kz-most.api-yandex.net&sid=0fdfdcf08733a33f#19.%20%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
-vless://39e18f1d-d3e4-4d44-b72e-9545a1d64f49@89.232.177.23:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=oVRbpcmh0rTxbe2y_zyVQqqzCVIPOFfkk-CHv9QFLF4&sni=kz-most.api-yandex.net&sid=0fdfdcf08733a33f#19.%20%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
